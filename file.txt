@@ -1,0 +1,174 @@
+Git History on main by all authors 
+
+undefined
+902bec7 (HEAD -> main) by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Mon Apr 26 2021 (17 seconds ago)
+1 file changed, 15 insertions(+)
+
+--- Auto-Git Commit ---
+7c0263a by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Mon Apr 26 2021 (8 minutes ago)
+1 file changed, 5 insertions(+)
+
+Merge pull request #20 from RonSherfey/depfu/update/yarn/prettier-2.2.1
+141b361 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (19 hours ago)
+
+Update prettier to version 2.2.1
+d8fe5ea by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sun Apr 25 2021 (19 hours ago)
+2 files changed, 6 insertions(+), 1 deletion(-)
+
+Merge pull request #19 from RonSherfey/depfu/update/yarn/mocha-8.3.2
+f43c588 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (19 hours ago)
+
+Update mocha to version 8.3.2
+85c456b by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sun Apr 25 2021 (19 hours ago)
+2 files changed, 177 insertions(+), 140 deletions(-)
+
+Merge pull request #5 from RonSherfey/depfu/update/yarn/@types/chai-4.2.16
+20b80d7 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (19 hours ago)
+
+Update @types/chai to version 4.2.16
+ef30bbd by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sun Apr 25 2021 (19 hours ago)
+2 files changed, 7 insertions(+), 67 deletions(-)
+
+Merge pull request #6 from RonSherfey/depfu/update/yarn/@types/fs-extra-9.0.11
+20c3b3b by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (19 hours ago)
+
+Update @types/fs-extra to version 9.0.11
+da2e8dd by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sat Apr 24 2021 (2 days ago)
+2 files changed, 5 insertions(+), 5 deletions(-)
+
+Merge pull request #7 from RonSherfey/depfu/update/yarn/commitizen-4.2.3
+54578a3 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (19 hours ago)
+
+Merge branch 'main' into depfu/update/yarn/commitizen-4.2.3
+99f6347 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (19 hours ago)
+
+Merge pull request #13 from RonSherfey/depfu/update/yarn/chai-4.3.4
+7e2d269 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (19 hours ago)
+
+Update chai to version 4.3.4
+4a57aeb by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sun Apr 25 2021 (24 hours ago)
+2 files changed, 10 insertions(+), 10 deletions(-)
+
+Merge pull request #4 from RonSherfey/depfu/update/yarn/@nomiclabs/hardhat-ethers-2.0.2
+31d8160 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (19 hours ago)
+
+Update @nomiclabs/hardhat-ethers to version 2.0.2
+a63340b by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sun Apr 25 2021 (20 hours ago)
+2 files changed, 5 insertions(+), 5 deletions(-)
+
+Merge pull request #14 from RonSherfey/depfu/update/yarn/eslint-config-prettier-6.15.0
+52872d4 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (20 hours ago)
+
+Update eslint-config-prettier to version 6.15.0
+2b465a4 by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sun Apr 25 2021 (23 hours ago)
+2 files changed, 5 insertions(+), 5 deletions(-)
+
+Merge pull request #18 from RonSherfey/depfu/update/yarn/hardhat-2.2.1
+59298ef by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (20 hours ago)
+
+Update hardhat to version 2.2.1
+e445c8a by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sun Apr 25 2021 (23 hours ago)
+2 files changed, 440 insertions(+), 40 deletions(-)
+
+Update deno.yml
+010157a by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (23 hours ago)
+1 file changed, 87 insertions(+)
+
+Merge pull request #17 from RonSherfey/depfu/update/yarn/fs-extra-9.1.0
+6c1a343 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (23 hours ago)
+
+Update fs-extra to version 9.1.0
+de77a5e by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sun Apr 25 2021 (23 hours ago)
+2 files changed, 11 insertions(+), 6 deletions(-)
+
+Merge pull request #16 from RonSherfey/depfu/update/yarn/ethers-5.1.3
+a70d958 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (23 hours ago)
+
+Update ethers to version 5.1.3
+d4cf7bb by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sun Apr 25 2021 (23 hours ago)
+2 files changed, 2 insertions(+), 374 deletions(-)
+
+Create SECURITY.md
+159c2fb by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (23 hours ago)
+1 file changed, 21 insertions(+)
+
+Merge pull request #15 from RonSherfey/depfu/update/yarn/ethereum-waffle-3.3.0
+7256e90 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (23 hours ago)
+
+Update ethereum-waffle to version 3.3.0
+8829a8f by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sun Apr 25 2021 (23 hours ago)
+2 files changed, 315 insertions(+), 67 deletions(-)
+
+Merge pull request #8 from RonSherfey/depfu/update/yarn/husky-4.3.8
+5d58d41 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (24 hours ago)
+
+Update husky to version 4.3.8
+140cf09 by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sat Apr 24 2021 (2 days ago)
+2 files changed, 22 insertions(+), 22 deletions(-)
+
+Merge pull request #12 from RonSherfey/depfu/update/yarn/@types/node-14.14.41
+4b3660a by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (24 hours ago)
+
+Update @types/node to version 14.14.41
+09faeb0 by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sun Apr 25 2021 (24 hours ago)
+2 files changed, 7 insertions(+), 2 deletions(-)
+
+Merge pull request #11 from RonSherfey/depfu/update/yarn/@ethersproject/bignumber-5.1.1
+21b74cc by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (24 hours ago)
+
+Update @ethersproject/bignumber to version 5.1.1
+0302776 by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sun Apr 25 2021 (24 hours ago)
+2 files changed, 3 insertions(+), 3 deletions(-)
+
+Merge pull request #10 from RonSherfey/depfu/update/yarn/@ethersproject/abstract-signer-5.1.0
+ba554d5 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Apr 25 2021 (24 hours ago)
+
+Update @ethersproject/abstract-signer to version 5.1.0
+d88241a by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sat Apr 24 2021 (2 days ago)
+2 files changed, 148 insertions(+), 2 deletions(-)
+
+Update commitizen to version 4.2.3
+c564190 by depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>, Sat Apr 24 2021 (2 days ago)
+2 files changed, 22 insertions(+), 2 deletions(-)
+
+Merge pull request #3 from RonSherfey/snyk-upgrade-a08fd594f2bcee488ee3eb6b388f2ff1
+83e1d5c by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Wed Apr 14 2021 (12 days ago)
+
+fix: upgrade solc from 0.8.1 to 0.8.2
+f452365 by snyk-bot <snyk-bot@snyk.io>, Tue Apr 13 2021 (13 days ago)
+2 files changed, 5 insertions(+), 5 deletions(-)
+
+Merge pull request #2 from RonSherfey/dependabot/npm_and_yarn/y18n-3.2.2
+d08716d by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Thu Apr 01 2021 (4 weeks ago)
+
+Bump y18n from 3.2.1 to 3.2.2
+ac9ce76 by dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>, Thu Apr 01 2021 (4 weeks ago)
+1 file changed, 3 insertions(+), 3 deletions(-)
+
+azurenode
+ce6870b by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Mar 28 2021 (4 weeks ago)
+1 file changed, 50 insertions(+)
+
+codewatch
+addbd54 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Mar 28 2021 (4 weeks ago)
+1 file changed, 67 insertions(+)
+
+deno create
+7c5e49d by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Mar 28 2021 (4 weeks ago)
+1 file changed, 39 insertions(+)
+
+stale commit
+540ccae by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Mar 28 2021 (4 weeks ago)
+1 file changed, 19 insertions(+)
+
+Merge pull request #1 from RonSherfey/dependabot/npm_and_yarn/ini-1.3.8
+50ad7c3 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Mar 28 2021 (4 weeks ago)
+
+Bump ini from 1.3.5 to 1.3.8
+7b0404b by dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>, Sun Mar 28 2021 (4 weeks ago)
+1 file changed, 3 insertions(+), 3 deletions(-)
+
+Initial commit
+8f94592 by Ronnie Sherfey <77251516+RonSherfey@users.noreply.github.com>, Sun Mar 28 2021 (4 weeks ago)
+31 files changed, 11120 insertions(+)
+
